@@ -1,0 +1,40 @@
+body{
+background-color:blue
+}
+.header{
+border:3px solid red;
+background-color:yellow;
+text-align:center;
+}
+.nav{
+border:5px solid blue;
+background-color:orange;
+margin-bottom:10px;
+}
+ul{
+list-style-type:none;
+}
+li{
+display:inline;
+}
+a{
+text-decoration:none;
+font-size:30px;
+}
+.row1,.row2{
+border:5px solid green;
+}
+
+a:visited{
+background-color:#d742f4;
+}
+a:hover{
+background-color:#c5f442;
+}
+a:active{
+background-color:#42f4f4;
+}
+.middle{
+border:3px solid green;
+}
+

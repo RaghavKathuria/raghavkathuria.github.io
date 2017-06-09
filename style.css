@@ -1,0 +1,42 @@
+.content{
+background-color:pink;
+}
+
+h1{
+text-align:center;
+}
+.header{
+border:3px solid red;
+background-color:yellow;
+text-align:center;
+}
+.nav{
+border:5px solid blue;
+background-color:orange;
+}
+ul{
+list-style-type:none;
+}
+li{
+display:inline;
+}
+
+p{
+border:groove green;
+}
+
+a{
+text-decoration:none;
+color:rgb(17,17,67);
+font-size:30px;
+}
+.raghavcopyright{
+border:solid black;
+background-color:yellow;
+}
+a:hover{
+color:red;
+background-color:#c5f442;
+}
+
+
