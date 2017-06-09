@@ -1,47 +1,39 @@
 .content{
-background-color:pink;
+width:60%;
+padding-right:50px;
+position:absolute;
+top:170px;
+right:10px;
+left:520px;
 }
 body{
-background-image:url("scen.jpg");
-background-size:cover;
+background-color:#8cce7a;
 }
 h1{
 text-align:center;
 }
 .header{
-border:3px solid red;
-background-color:yellow;
+
 text-align:center;
 }
-.nav{
-border:5px solid blue;
-background-color:orange;
-}
-ul{
-list-style-type:none;
-}
-li{
-display:inline;
-}
 
-p{
-border:groove green;
-}
 
 a{
 text-decoration:none;
 color:rgb(17,17,67);
 font-size:30px;
+background-color:orange;
 }
-.raghavcopyright{
-border:solid black;
-background-color:yellow;
-position:relative;
-top:400px;
-}
+
 a:hover{
-color:red;
-background-color:#c5f442;
+color:orange;
+background-color:#8cce7a;
 }
 
-
+img{
+margin-top:30px;
+height:600px;
+width:500px;
+border-radius:20%;
+border:2px solid #8cce7a;
+}
