@@ -2,9 +2,9 @@
 background-color:pink;
 }
 body{
-
-background-image:scen.jpg;
+background-image:url("scen.jpg");
 background-size:cover;
+}
 h1{
 text-align:center;
 }
@@ -36,6 +36,8 @@ font-size:30px;
 .raghavcopyright{
 border:solid black;
 background-color:yellow;
+position:relative;
+top:400px;
 }
 a:hover{
 color:red;
