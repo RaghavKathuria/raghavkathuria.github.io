@@ -1,0 +1,27 @@
+.header{
+text-align:center;
+}
+
+
+a{
+text-decoration:none;
+color:rgb(17,17,67);
+font-size:30px;
+background-color:orange;
+}
+
+a:hover{
+color:orange;
+background-color:#8cce7a;
+}
+
+
+body{
+background-color: #8cce7a;
+}
+
+.main{
+width:100%;
+margin:0 660px;
+}
+
