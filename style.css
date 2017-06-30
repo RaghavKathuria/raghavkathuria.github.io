@@ -6,9 +6,7 @@ top:170px;
 right:10px;
 left:520px;
 }
-body{
-background-color:#8cce7a;
-}
+
 h1{
 text-align:center;
 }
@@ -36,4 +34,7 @@ height:600px;
 width:500px;
 border-radius:20%;
 border:2px solid #8cce7a;
+}
+body{
+background-color: white;
 }
